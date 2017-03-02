@@ -1,0 +1,2 @@
+# wamp64
+wamp
